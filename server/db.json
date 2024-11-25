@@ -1,0 +1,51 @@
+{
+    "constructors": [
+        {
+            "id": 1,
+            "name": "Олег", 
+            "surname": "Белов", 
+            "email": "belov@ex.com",
+            "password": "passOleg",
+            "uploadedDocuments": [
+                {"fileName": "Протокол"},
+                {"fileName": "Положение"},
+                {"fileName": "Договор"}
+            ],
+            "newDocuments": [
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Алексей",
+            "surname": "Серов",
+            "email": "serov@ex.com",
+            "password": "passAlex",
+            "uploadedDocuments": [
+                {"fileName": "Протокол"},
+                {"fileName": "Положение"},
+                {"fileName": "Положение"}
+            ],
+            "newDocuments": [
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Максим",
+            "surname": "Чернов",
+            "email": "chernov@ex.com",
+            "password": "passMax",
+            "uploadedDocuments": [
+                {"fileName": "Договор"},
+                {"fileName": "Договор"},
+                {"fileName": "Договор"}
+            ],
+            "newDocuments": [
+            ]
+        }
+    ],
+    "boss": {
+        "id": 1,
+        "email": "boss@ex.com",
+        "password": "passBoss"
+    }
+}

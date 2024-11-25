@@ -1,0 +1,15 @@
+.customTab {
+    transition: color 0.3s; 
+  }
+
+.customTab:hover {
+    color: #4ba27d; 
+  }
+
+.customTabNot {
+  opacity: .5;
+}
+
+.customTabNot:hover {
+  cursor: not-allowed;
+}
